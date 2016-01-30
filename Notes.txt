@@ -11,17 +11,25 @@ Saturday jan 23rd
   -I tried runnnig the classifier with different ways of dealing with the missing values. When I impput -1 for each nan the best 
   -score was achieved. I also tried droping all rows with nan's and all columns with nan's neither produced good scores. 
   -when i try to use the model on the test data i get an error about the number of columns not matching up. 
-  -during the one hot encoding there are not the same number of levels in the columns so it produces frames with different num of columns
+  -during the one hot encoding there are not the same number of levels in the columns so it produces frames with different num    of columns
   -to fix this i'll combine the test and train data and then perform the one hot encoding. 
 Sunday jan 24th
 -I created bar charts of the female and male split on country preference
--i created plots for the country destinations, gender, age, and time. pandas has a wrapper for matplotlibs plot function which is handy
-Saturday jan 16th
--
+-i created plots for the country destinations, gender, age, and time. pandas has a wrapper for matplotlibs plot function which   is handy
 Saturday jan 9th
 - I used the pandas datareader to examine the info they have from the world  bank. The data is split up by different indicators
--You can get data between now and 1960. I explored how complete these dates were. There are about 150 countries so I set the limit at
--50 per date. There were
+-You can get data between now and 1960. I explored how complete these dates were. There are about 150 countries so I set the     limit at 50 per date. 
 Sunday jan 10th
 -I used the requests and lxml modules to access a website and I parsed the xml tree to see where the data I wanted was
--then i put the data into a list to use with the twitch api. 
+-then i put the data into a list to use with an api.  
+monday jan 11th
+-found all the xls links on a webpage, retrieved one of them and used pandas import excel to put it into a dataframe
+-opened an excel link from consumer finance. 
+-opened a weather channel csv and used pandas to get it into a dataframe
+-opened a zipfile using zipfile, there is also gzip and one other format. THe file was from the machine learning database
+Thursday Jan 14th
+-used the world bank indicator to get categories on the countries and spplit these up based on region
+-i included nan's instead of numbers for this
+-made a pandas cross tab of, which is usefull for seeing the layout of two categroical variables
+-made  a histogram of the income,admin,region,lending type. 
+
