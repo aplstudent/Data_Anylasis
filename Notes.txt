@@ -32,4 +32,6 @@ Thursday Jan 14th
 -i included nan's instead of numbers for this
 -made a pandas cross tab of, which is usefull for seeing the layout of two categroical variables
 -made  a histogram of the income,admin,region,lending type. 
-
+Monday February 8th
+-I want to make a submission so i've got to go through what i have and pull one together. 
+-i'd like to keep work on these going. and use deep learning somehow. 
