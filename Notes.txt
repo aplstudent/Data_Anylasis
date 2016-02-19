@@ -35,3 +35,7 @@ Thursday Jan 14th
 Monday February 8th
 -I want to make a submission so i've got to go through what i have and pull one together. 
 -i'd like to keep work on these going. and use deep learning somehow. 
+February 18th Thursday
+I'm learning about the R statistics project, i'm at a seminar put on by CAS IT. 
+It can be used for sentiment analysis, qualitative data and quantative data. Really good for text stuff. analyze the vegetableness and the meatiness of idfferent ingredients
+R studio and r interface. linux download available. sentiment anylasis, time series. 
