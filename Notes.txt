@@ -38,4 +38,17 @@ Monday February 8th
 February 18th Thursday
 I'm learning about the R statistics project, i'm at a seminar put on by CAS IT. 
 It can be used for sentiment analysis, qualitative data and quantative data. Really good for text stuff. analyze the vegetableness and the meatiness of idfferent ingredients
-R studio and r interface. linux download available. sentiment anylasis, time series. 
+R studio and r interface. linux download available. sentiment anylasis, time series.
+--February 20th 2016
+I am going to make a teaching example with abalone. 
+I would like to make a simple one and a complicated one
+so I am going to make two of them. 
+
+I printed histograms of the numberical variables and the description statistics, i printed the comparison of categories to output values, i plotted the occurence of each category. I encoded the categorical varaible in ohe fashion. 
+
+I'm going to use sklearn to create and test models for this data set
+i tested 5 different classifier with them. I'm trying to set up a grid search with random Paramaters
+I'm performing feature selection before showing the data to a classifier
+i wonder if there is specific preprocessing for classifiers. 
+i want to be good at preprcessing. 
+
