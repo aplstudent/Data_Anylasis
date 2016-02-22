@@ -51,4 +51,13 @@ i tested 5 different classifier with them. I'm trying to set up a grid search wi
 I'm performing feature selection before showing the data to a classifier
 i wonder if there is specific preprocessing for classifiers. 
 i want to be good at preprcessing. 
+--February 21st 2016
+downloading education analytics from the UCI repository. 
+there are 7 seperate csv's. i want to merge them somehow. 
+first how complete are they? there is a large discrepency between the amount in each table, there is from 2 to 1000000. so merging all these tables would provide lots of blank space. 
+--i'm going back to abalone to learn scikit learn methods because i want to understand that module completley 
+trying to get corss validation with the grid search to work 
+--i'm getting a value error because of the targets i think
+-- i'm going to learn about R now. 
+
 
