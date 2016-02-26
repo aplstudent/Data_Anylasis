@@ -60,4 +60,11 @@ trying to get corss validation with the grid search to work
 --i'm getting a value error because of the targets i think
 -- i'm going to learn about R now. 
 
+--February 24th Thursday 2016
+I pulled data from the UCI machine learning about the census and income of adults. 
+describe the data
+how was it sampled?
+i'll work through it in pandas first 
+does it need to be filled or not
+how normal or random were the response. what is the null hypothesis?
 
