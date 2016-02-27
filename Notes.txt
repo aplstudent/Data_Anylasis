@@ -67,4 +67,12 @@ how was it sampled?
 i'll work through it in pandas first 
 does it need to be filled or not
 how normal or random were the response. what is the null hypothesis?
+February 26th Friday 2016
+-change the column names
+-turn categroies into numbers 
+-make grapphs
+-use scipy for how well normal they are. 
 
+For purpose of learning how to use merge and join 
+
+----features to highlight. loc and iloc, get _dummies, merge-join-concatenate
