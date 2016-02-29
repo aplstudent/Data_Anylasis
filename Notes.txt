@@ -91,3 +91,9 @@ grid search, *creating outputs in number form. *seeing what the weights or decis
 
 -switched to working with sklearn 
 
+lets do preprocessing then feature engineering before doing a classifier. 
+sklearn has pipeline, feature selection, feature extraction, preprocessing, dimensionallity reduction, 
+
+link to the working with data pdf 
+http://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf
+
