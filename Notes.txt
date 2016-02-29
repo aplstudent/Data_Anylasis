@@ -75,12 +75,16 @@ February 26th Friday 2016
 
 For purpose of learning how to use merge and join 
 
-
+---February 26th saturday
 ----Pandas features to highlight. loc and iloc, get _dummies, merge-join-concatenate, applymap, how to make graphs  
 ----how to deal with categorical variables how to deal with time series 
 ----sklearn features to highlight. pipeline, choosing paramaters, cross -validation, regression, classification, *optimization,
 grid search, *creating outputs in number form. *seeing what the weights or decisions are. 
 ----create something small in theano to show how it works 
 
+---February 27th SUnday
+-created graphs of categorical and numerical data 
+-made cross tables with each category against the target 
+-made the cross tables into a percent of under and over to get a sense of which were decent predictors
 
---planning step
+
