@@ -86,5 +86,8 @@ grid search, *creating outputs in number form. *seeing what the weights or decis
 -created graphs of categorical and numerical data 
 -made cross tables with each category against the target 
 -made the cross tables into a percent of under and over to get a sense of which were decent predictors
+-created a mutlidimensional cross table 
+-used apply to turn target into numbers 
 
+-switched to working with sklearn 
 
