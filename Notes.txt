@@ -90,10 +90,26 @@ grid search, *creating outputs in number form. *seeing what the weights or decis
 -used apply to turn target into numbers 
 
 -switched to working with sklearn 
-
+-i really don't know enough about sklearn or machine learning algorithms. THere are many cases and requirments that have to be satisfied before certain algorithms can be used. Also optimization. 
 lets do preprocessing then feature engineering before doing a classifier. 
 sklearn has pipeline, feature selection, feature extraction, preprocessing, dimensionallity reduction, 
 
 link to the working with data pdf 
 http://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf
+this area of research is called data mining and data warehousing
+March 2nd 
+http://www.kdnuggets.com/data_mining_course/
+one semester of a data mining course. many good teaching modules in it. 
+
+--March 4th
+learning about text analysis in R, the programming language.
+exploratory data analysis and correspondance analysis. 
+--March 7th
+learned how to parse html in r and make a corpus
+-create a word cloud from a term document matrix
+i'm exploring how to do text analysis in R. i grabbed two articles from a url and made a word cloud from them
+word associations
+frequent word clustering
+made dendrogram, trying to find where good cutoffs are 
+
 
