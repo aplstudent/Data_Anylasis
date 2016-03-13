@@ -113,3 +113,8 @@ frequent word clustering
 made dendrogram, trying to find where good cutoffs are 
 
 
+--March 8th
+--did an exploratory analysis on data from crude oil, and parsed a website to grab links and text then put it into a corpus
+----march 12th 
+-using python to assemble a corpus from american periodicals through the library of congress api and website. Able to load tet from a url, made a function to parse using beautifull soup. lxml is good for complete xml tree, bs4 good for broken tree
+-got 30 documents, trying to load text from file of links 
