@@ -118,3 +118,7 @@ made dendrogram, trying to find where good cutoffs are
 ----march 12th 
 -using python to assemble a corpus from american periodicals through the library of congress api and website. Able to load tet from a url, made a function to parse using beautifull soup. lxml is good for complete xml tree, bs4 good for broken tree
 -got 30 documents, trying to load text from file of links 
+
+-wrote functions to make a query to library of congress and save the ocr text tesults to a file in pyhton. then analze the file in R 
+I have about 70 documents now. for some reason it will only load 4 at once, maybe an api problem 
+loaded the coudments into r, put them in a corpus, starting doing analysis, tried tf-idfm word cloud. maybe too much noise. 
