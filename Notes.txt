@@ -32,4 +32,99 @@ Thursday Jan 14th
 -i included nan's instead of numbers for this
 -made a pandas cross tab of, which is usefull for seeing the layout of two categroical variables
 -made  a histogram of the income,admin,region,lending type. 
+Monday February 8th
+-I want to make a submission so i've got to go through what i have and pull one together. 
+-i'd like to keep work on these going. and use deep learning somehow. 
+February 18th Thursday
+I'm learning about the R statistics project, i'm at a seminar put on by CAS IT. 
+It can be used for sentiment analysis, qualitative data and quantative data. Really good for text stuff. analyze the vegetableness and the meatiness of idfferent ingredients
+R studio and r interface. linux download available. sentiment anylasis, time series.
+--February 20th 2016
+I am going to make a teaching example with abalone. 
+I would like to make a simple one and a complicated one
+so I am going to make two of them. 
 
+I printed histograms of the numberical variables and the description statistics, i printed the comparison of categories to output values, i plotted the occurence of each category. I encoded the categorical varaible in ohe fashion. 
+
+I'm going to use sklearn to create and test models for this data set
+i tested 5 different classifier with them. I'm trying to set up a grid search with random Paramaters
+I'm performing feature selection before showing the data to a classifier
+i wonder if there is specific preprocessing for classifiers. 
+i want to be good at preprcessing. 
+--February 21st 2016
+downloading education analytics from the UCI repository. 
+there are 7 seperate csv's. i want to merge them somehow. 
+first how complete are they? there is a large discrepency between the amount in each table, there is from 2 to 1000000. so merging all these tables would provide lots of blank space. 
+--i'm going back to abalone to learn scikit learn methods because i want to understand that module completley 
+trying to get corss validation with the grid search to work 
+--i'm getting a value error because of the targets i think
+-- i'm going to learn about R now. 
+
+--February 24th Thursday 2016
+I pulled data from the UCI machine learning about the census and income of adults. 
+describe the data
+how was it sampled?
+i'll work through it in pandas first 
+does it need to be filled or not
+how normal or random were the response. what is the null hypothesis?
+February 26th Friday 2016
+-change the column names
+-turn categroies into numbers 
+-make grapphs
+-use scipy for how well normal they are. 
+
+For purpose of learning how to use merge and join 
+
+---February 26th saturday
+----Pandas features to highlight. loc and iloc, get _dummies, merge-join-concatenate, applymap, how to make graphs  
+----how to deal with categorical variables how to deal with time series 
+----sklearn features to highlight. pipeline, choosing paramaters, cross -validation, regression, classification, *optimization,
+grid search, *creating outputs in number form. *seeing what the weights or decisions are. 
+----create something small in theano to show how it works 
+
+---February 27th SUnday
+-created graphs of categorical and numerical data 
+-made cross tables with each category against the target 
+-made the cross tables into a percent of under and over to get a sense of which were decent predictors
+-created a mutlidimensional cross table 
+-used apply to turn target into numbers 
+
+-switched to working with sklearn 
+-i really don't know enough about sklearn or machine learning algorithms. THere are many cases and requirments that have to be satisfied before certain algorithms can be used. Also optimization. 
+lets do preprocessing then feature engineering before doing a classifier. 
+sklearn has pipeline, feature selection, feature extraction, preprocessing, dimensionallity reduction, 
+
+link to the working with data pdf 
+http://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf
+this area of research is called data mining and data warehousing
+March 2nd 
+http://www.kdnuggets.com/data_mining_course/
+one semester of a data mining course. many good teaching modules in it. 
+
+--March 4th
+learning about text analysis in R, the programming language.
+exploratory data analysis and correspondance analysis. 
+--March 7th
+learned how to parse html in r and make a corpus
+-create a word cloud from a term document matrix
+i'm exploring how to do text analysis in R. i grabbed two articles from a url and made a word cloud from them
+word associations
+frequent word clustering
+made dendrogram, trying to find where good cutoffs are 
+
+
+--March 8th
+--did an exploratory analysis on data from crude oil, and parsed a website to grab links and text then put it into a corpus
+----march 12th 
+-using python to assemble a corpus from american periodicals through the library of congress api and website. Able to load tet from a url, made a function to parse using beautifull soup. lxml is good for complete xml tree, bs4 good for broken tree
+-got 30 documents, trying to load text from file of links 
+
+-wrote functions to make a query to library of congress and save the ocr text tesults to a file in pyhton. then analze the file in R 
+I have about 70 documents now. for some reason it will only load 4 at once, maybe an api problem 
+loaded the coudments into r, put them in a corpus, starting doing analysis, tried tf-idfm word cloud. maybe too much noise. 
+
+
+March 12th
+worked on  teaching modules on loading data and exploratory analysis
+march 13th
+worked on presentation giveing overview of what i have done and an intro to how to do it. 
